@@ -42,8 +42,8 @@ header {
 }
 
 .btn:hover {
-    background: linear-gradient(180deg, #FA804C 0%, #fb8451 100%);
-    ;
+    background: linear-gradient(180deg, #3E3E3E 0%, #1f1f58 100%);
+   
 }
 
 .logo img {
